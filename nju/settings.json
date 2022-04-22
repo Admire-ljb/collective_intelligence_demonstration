@@ -1,0 +1,21 @@
+{
+  "SeeDocsAt": "https://github.com/Microsoft/AirSim/blob/master/docs/settings.md",
+  "SettingsVersion": 1.2,
+  "SimMode": "Multirotor",
+  "Vehicles": {
+    "uav_0": {
+      "VehicleType": "simpleflight",
+      "AutoCreate": true,
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "uav_1": {
+      "VehicleType": "simpleflight",
+      "AutoCreate": true,
+      "X": 10,
+      "Y": 0,
+      "Z": 0
+    }
+  }
+}
