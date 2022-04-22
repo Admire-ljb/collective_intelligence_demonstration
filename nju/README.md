@@ -12,4 +12,4 @@ TBD @ wjf
 
 1. construct the observation for each UAV
 2. check the action to instruction mapping
-
+3. generate obstacles
