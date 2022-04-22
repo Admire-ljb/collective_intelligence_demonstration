@@ -1,1 +1,2 @@
 # collective_intelligence_demonstration
+Multiagent reinforcement learning
